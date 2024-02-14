@@ -1,0 +1,1 @@
+transactions[i].category, transactions[i].price
